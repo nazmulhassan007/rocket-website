@@ -1,0 +1,95 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+/* navbar */
+
+.container{
+    height: 98px;
+    background: #012025;
+
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 230px;
+}
+
+
+.logo{
+    margin-top: 15px;
+    width: 275px;
+    height: 52px;
+}
+
+ul{
+    display: flex;
+    margin-top:15px;
+}
+
+
+li{
+    list-style: none;
+    margin-left: 40px;
+}
+
+
+a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.on{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+
+
+
+#home{
+    color: #5FD43E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.demo{
+    margin-top: 15px;
+    padding: 14px 28px;
+    align-items: flex-start;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid #5FD43E;
+    background: #012025;
+}
+
+
+.get{
+    color: #5FD43E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+/* hero container */
+
+.hero-section{
+    background-image: url('./');
+}
