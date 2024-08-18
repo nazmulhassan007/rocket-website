@@ -856,7 +856,9 @@ a{
 
 .section-seven{
     height: 679px;
-    background: #002126;
+    background-image: url('../images/g.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -929,4 +931,168 @@ a{
     font-style: normal;
     font-weight: 400;
     line-height: 170%; /* 27.2px */
+}
+
+
+
+
+
+
+
+/* section 8 */
+
+
+
+
+
+.section-eight{
+    background: #F5FDFF;
+    height: 1147px;
+}
+
+
+
+
+.get-start{
+    color: #002126;
+    text-align: center;
+    padding-top: 120px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%; /* 40.8px */
+}
+
+
+
+
+
+.title{
+    color: #002126;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%; /* 40.8px */
+}
+
+
+
+
+
+.input{
+    padding-top: 64px;
+    padding-left: 90px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.input1{
+    padding-top: 20px;
+    padding-left: 90px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+
+
+#text2{
+    width: 710px;
+    height: 93px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 1px solid #D9DBDB;
+    background: #EEF6F7;
+}
+
+
+
+
+#textarea1{
+    width: 1470px;
+    height: 303px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 1px solid #D9DBDB;
+    background: #EEF6F7;
+    margin-top: 20px;
+    margin-left: 90px;
+    padding-top: 30px;
+}
+
+
+
+
+.text-button{
+    margin-left: 750px;
+    margin-top: 123px;
+    display: flex;
+    padding: 16px 36px;
+    align-items: center;
+    gap: 12px;
+    border-radius: 8px;
+    background: #002126;
+    border: none;
+}
+
+
+
+
+
+
+#moom{
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+
+
+/* section 9 */
+
+
+.section-nine{
+    background-image: url('../images/2section.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 797px;
+}
+
+
+
+
+.tesh{
+    color: #FFF;
+    text-align: center;
+    padding-top: 120px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+
+
+
+
+.funey{
+    color: #FFF;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 44.2px */
 }
