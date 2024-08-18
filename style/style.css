@@ -666,3 +666,267 @@ a{
     line-height: 150%; /* 21px */
     margin-top: 11px;
 }
+
+
+/* section 6 */
+
+
+
+.section-six{
+    height: 1040px;
+    background: #F5FDFF;
+}
+
+
+
+
+
+.ass-section{
+    display: flex;
+    gap: 114px;
+}
+
+
+
+.ass{
+    background-image: url('../images/six.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 706px;
+    height: 800px;
+    margin-top: 120px;
+    margin-left: 120px;
+}
+
+
+
+.house{
+   padding-top: 626px;
+   padding-left: 54px;
+   color: #FEFFFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; /* 28px */
+}
+
+
+
+
+.mork{
+    padding-top: 10px;
+    padding-left: 54px;
+    color: #E1FAFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 170%; /* 27.2px */
+}
+
+
+
+
+
+.del{
+    margin-top: 120px;
+}
+
+
+
+
+.cases{
+    color: #002126;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+
+
+.capital{
+    color: #263238;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 44.2px */
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.youaa{
+    color: #5FD43E;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+}
+
+
+
+
+
+.poor{
+    color: #5F5F5F;
+    margin-top: 24px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 170%; /* 27.2px */
+}
+
+
+
+
+.flex-p{
+    display: flex;
+    gap: 8px;
+    margin-top: 22px;
+}
+
+
+
+
+.flex-p1{
+    display: flex;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+
+
+
+.class{
+    width: 24px;
+    height: 24px;
+}
+
+
+
+
+.i-am-a-heading-one-one{
+    color: #5F5F5F;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
+
+
+
+
+
+
+
+
+.button-app{
+    display: flex;
+    padding: 16px 36px;
+    align-items: center;
+    gap: 12px;
+    border-radius: 8px;
+    background: #5FD43E;
+    border: none ;
+    margin-top: 50px;
+}
+
+
+
+
+.noe-app{
+    color: #002126;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+
+/* section 7 */
+
+
+
+
+.section-seven{
+    height: 679px;
+    background: #002126;
+}
+
+
+
+
+
+
+.am-i{
+    color: #FFF;
+    text-align: center;
+    padding-top: 120px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%; /* 44.2px */
+}
+
+
+.section-section{
+    display: flex;
+    margin-top: 64px;
+    margin-left: 120px;
+    gap: 20px;
+}
+
+
+
+.my-con-se{
+    width: 710px;
+    height: 287px;
+    border-radius: 20px;
+    border: 1px solid #057181;
+    background: #003037;
+}
+
+
+
+
+
+.vector{
+    margin-top: 45px;
+    margin-left: 331.5px;
+}
+
+
+
+.need-to-be-a-coffi{
+    color: #FFF;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; /* 28px */
+}
+
+
+
+
+
+
+
+
+
+.why-we-i-am-heading{
+    color: #FFF;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 170%; /* 27.2px */
+}
